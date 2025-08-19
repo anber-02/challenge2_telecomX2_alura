@@ -1,4 +1,4 @@
-# README: Predicción de Cancelación de Clientes
+# CHALLENGE: Predicción de Cancelación de Clientes
 
 ## Descripción del Proyecto
 
